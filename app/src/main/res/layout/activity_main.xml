@@ -34,6 +34,8 @@
             android:paddingTop="20dp"
             android:paddingBottom="16dp">
 
+            <!--            cierra este-->
+
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -126,7 +128,8 @@
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
-            <!-- Card nuevo proveniente del commit remoto -->
+
+            <!--pega aqui tu codigo y modificalo-->
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -183,7 +186,7 @@
                         android:layout_height="wrap_content"
                         android:paddingHorizontal="12dp"
                         android:paddingBottom="16dp"
-                        android:text="buenos dias saludos, sporty"
+                        android:text="buenos dias saludos,"
                         android:textColor="@android:color/black"
                         android:textSize="15sp" />
 
@@ -220,6 +223,6 @@
             </androidx.cardview.widget.CardView>
 
         </LinearLayout>
-
+        <!--        abajo del </LinearLayout> no pegues  tu codigo-->
     </androidx.core.widget.NestedScrollView>
 </LinearLayout>
