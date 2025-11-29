@@ -186,7 +186,7 @@
                         android:layout_height="wrap_content"
                         android:paddingHorizontal="12dp"
                         android:paddingBottom="16dp"
-                        android:text="pull request, pull request"
+                        android:text="pull request, pull request,pull request"
                         android:textColor="@android:color/black"
                         android:textSize="15sp" />
 
