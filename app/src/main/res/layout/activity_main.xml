@@ -156,7 +156,7 @@
                             android:layout_width="40dp"
                             android:layout_height="40dp"
                             android:src="@drawable/ic_usuario"
-                            app:tint="#5DD9A5" />
+                            app:tint="#E91E63" />
 
                         <LinearLayout
                             android:layout_width="wrap_content"
@@ -186,7 +186,7 @@
                         android:layout_height="wrap_content"
                         android:paddingHorizontal="12dp"
                         android:paddingBottom="16dp"
-                        android:text="pull request, pull request,pull request, pull"
+                        android:text="new pull,pull request, pull request, pull request,pull request, pull"
                         android:textColor="@android:color/black"
                         android:textSize="15sp" />
 
